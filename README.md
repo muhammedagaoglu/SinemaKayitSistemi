@@ -1,0 +1,2 @@
+# SinemaKayitSistemi
+Sinema Kayıt Sistemi
